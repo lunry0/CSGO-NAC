@@ -1,0 +1,199 @@
+{
+  "// CS:GO NAC Configuration Template": "Copy this to nac_config.json and customize",
+  "// NAC - Not A Cheat - Professional Gaming Enhancement": "Over 50 options available",
+  
+  "player": {
+    "// Crosshair Settings": "Custom crosshair system with 10+ styles",
+    "enableCustomCrosshair": true,
+    "crosshairStyle": 2,
+    "crosshairColor": {
+      "r": 0.6,
+      "g": 0.2,
+      "b": 0.8,
+      "a": 1.0
+    },
+    "crosshairSize": 5.0,
+    "crosshairThickness": 1.5,
+    "crosshairOutline": true,
+    
+    "// Viewmodel Settings": "FOV and position customization",
+    "viewModelFOV": 68.0,
+    "viewModelOffset": {
+      "x": 2.0,
+      "y": 0.0,
+      "z": -2.0
+    },
+    
+    "// HUD Settings": "Enhanced information display",
+    "enableCustomHUD": true,
+    "hudScale": 1.0,
+    "showPlayerInfo": true,
+    "showWeaponInfo": true
+  },
+  
+  "enemy": {
+    "// Enemy Information (NAC Compliant)": "Information only, no cheating",
+    "showEnemyInfo": false,
+    "showEnemyHealth": false,
+    "showEnemyDistance": false,
+    "showEnemyWeapon": false,
+    "enemyInfoDistance": 100.0,
+    "highlightEnemies": false,
+    
+    "// Enemy Colors": "Customizable appearance",
+    "enemyInfoColor": {
+      "r": 1.0,
+      "g": 0.0,
+      "b": 0.0,
+      "a": 1.0
+    },
+    "enemyHighlightColor": {
+      "r": 1.0,
+      "g": 0.0,
+      "b": 0.0,
+      "a": 0.5
+    }
+  },
+  
+  "visual": {
+    "// Animation Settings": "Professional smooth animations",
+    "enableSmoothAnimations": true,
+    "animationSpeed": 1.0,
+    
+    "// Visual Effects": "Enhanced graphics",
+    "enableParticleEffects": true,
+    "enhancedLighting": true,
+    "enableBloom": true,
+    "enableMotionBlur": false,
+    
+    "// Display Settings": "Color and quality adjustments",
+    "brightness": 1.0,
+    "contrast": 1.0,
+    "saturation": 1.0,
+    "enableAntiAliasing": true,
+    "antiAliasingLevel": 4,
+    "enableVSync": false,
+    "fullscreenOptimization": true,
+    
+    "// Theme Colors": "Purple-black professional theme",
+    "themeColorPrimary": {
+      "r": 0.6,
+      "g": 0.2,
+      "b": 0.8,
+      "a": 1.0
+    },
+    "themeColorSecondary": {
+      "r": 0.3,
+      "g": 0.1,
+      "b": 0.4,
+      "a": 1.0
+    }
+  },
+  
+  "performance": {
+    "// FPS Optimization": "Boost performance up to 500 FPS",
+    "enableFPSBoost": true,
+    "targetFPS": 300,
+    
+    "// Latency Settings": "Minimize input lag",
+    "lowLatencyMode": true,
+    "optimizeMemory": true,
+    "reduceCPUUsage": true,
+    "prioritizeGPU": true,
+    
+    "// Quality Settings": "Balance performance and visuals",
+    "textureQuality": 2,
+    "shadowQuality": 1,
+    "effectsQuality": 2,
+    "enableMulticore": true
+  },
+  
+  "misc": {
+    "// Console and Debug": "Development and monitoring tools",
+    "enableConsole": true,
+    
+    "// Performance Monitoring": "Real-time statistics",
+    "showFPS": true,
+    "showPing": true,
+    "showPacketLoss": false,
+    
+    "// Additional Features": "Extra enhancements",
+    "autoRecord": false,
+    "enhancedAudio": true,
+    "masterVolume": 1.0,
+    "enableDiscordRPC": true
+  },
+  
+  "menu": {
+    "// Menu Settings": "GUI customization",
+    "enableMenu": true,
+    "menuKey": 45,
+    "menuOpacity": 0.95,
+    "menuAnimations": true,
+    "menuScale": 1.0,
+    "menuSounds": true,
+    "saveOnExit": true
+  },
+  
+  "cursor": {
+    "// Cursor Customization": "Professional cursor styles",
+    "enableCustomCursor": true,
+    "cursorStyle": 1,
+    "cursorSize": 1.0,
+    "cursorTrail": false,
+    "cursorGlow": true,
+    "cursorColor": {
+      "r": 0.6,
+      "g": 0.2,
+      "b": 0.8,
+      "a": 1.0
+    }
+  },
+  
+  "animation": {
+    "// Animation System": "Smooth UI transitions",
+    "smoothTransitions": true,
+    "transitionSpeed": 0.3,
+    "easeInOut": true,
+    "bounceEffects": false
+  },
+  
+  "// Configuration Info": {
+    "version": "1.0.0",
+    "created": "CS:GO NAC Configuration System",
+    "description": "Professional Gaming Enhancement - Not A Cheat",
+    "totalOptions": "50+",
+    "categories": [
+      "Player Settings (12 options)",
+      "Enemy Settings (8 options) - NAC Compliant",
+      "Visual Settings (15 options)",
+      "Performance Settings (10 options)",
+      "Miscellaneous Settings (8 options)",
+      "Menu Settings (7 options)",
+      "Cursor Settings (6 options)",
+      "Animation Settings (4 options)"
+    ],
+    "features": [
+      "Custom crosshair system with 10+ styles",
+      "Viewmodel FOV and position adjustment",
+      "Enhanced HUD with custom elements",
+      "Enemy information display (NAC compliant)",
+      "Professional purple-black theme",
+      "Smooth animations with easing functions",
+      "FPS boost up to 500 FPS",
+      "Low latency mode for competitive play",
+      "Memory and CPU optimization",
+      "Enhanced audio processing",
+      "Discord Rich Presence integration",
+      "Custom cursor styles with effects",
+      "Performance monitoring tools",
+      "Hot-reload configuration system"
+    ],
+    "presets": [
+      "Performance: Maximum FPS, minimal visuals",
+      "Quality: Balanced performance and visuals", 
+      "Competitive: Optimized for competitive play",
+      "Casual: Enhanced visuals for casual gaming"
+    ]
+  }
+}
