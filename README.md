@@ -1,4 +1,4 @@
-# CS:GO NAC (Not A Cheat) - Professional Gaming Enhancement DLL
+# CS:GO NAC (Not A Cheat) - Gaming Enhancement DLL
 
 [![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)](https://github.com/your-repo/csgo-nac)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
