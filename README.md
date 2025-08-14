@@ -86,7 +86,7 @@ This tool is designed for **legitimate gaming enhancement only**. It focuses on:
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/your-repo/csgo-nac.git
+   git clone https://github.com/lunry0/CSGO-NAC.git
    cd csgo-nac
    ```
 
