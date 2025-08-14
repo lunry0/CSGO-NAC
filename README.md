@@ -1,6 +1,6 @@
 # CS:GO NAC (Not A Cheat) - Gaming Enhancement DLL
 
-[![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)](https://github.com/your-repo/csgo-nac)
+[![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)](https://github.com/lunry0/CSGO-NAC)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 [![Platform](https://img.shields.io/badge/platform-Windows-lightgrey.svg)](https://www.microsoft.com/windows)
 [![CS:GO](https://img.shields.io/badge/game-CS%3AGO%202-orange.svg)](https://store.steampowered.com/app/730/CounterStrike_Global_Offensive/)
